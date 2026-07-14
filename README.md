@@ -1,6 +1,5 @@
 # 🤖 Cognifyz Technologies Machine Learning Internship
 
-![Banner](assets/banner.png)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
@@ -104,13 +103,6 @@ Cognifyz-ML-Internship/
 - Label Encoding
 - Feature Engineering
 
----
-
-# 📸 Project Gallery
-
-| Task 1 | Task 2 | Task 3 |
-|---------|---------|---------|
-| ![](assets/task1.png) | ![](assets/task2.png) | ![](assets/task3.png) |
 
 ---
 
@@ -149,9 +141,9 @@ B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)
 
 Graphic Era Hill University, Dehradun
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 💻 GitHub: *(Add your GitHub Profile URL)*
+- 📧 Email: dixa.inf08@gmail.com
+- 💼 LinkedIn: *(www.linkedin.com/in/dixa)*
+- 💻 GitHub: *(https://github.com/Dixa08)*
 
 ---
 
