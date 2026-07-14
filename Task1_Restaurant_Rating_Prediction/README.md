@@ -293,9 +293,6 @@ streamlit run app.py
 
 **Dixa**
 
-**B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)**
-
-**Graphic Era Hill University**
 
 ---
 
