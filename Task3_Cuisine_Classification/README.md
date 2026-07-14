@@ -60,9 +60,7 @@ Random Forest Classifier
 
 # 📉 Confusion Matrix
 
-![Confusion Matrix](assets/images
-/confusion_matrix.png
-)
+![Confusion Matrix](assets/images/confusion_matrix.png)
 
 ---
 
