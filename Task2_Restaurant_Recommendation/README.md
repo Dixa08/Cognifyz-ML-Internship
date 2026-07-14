@@ -1,8 +1,12 @@
+<p align="center">
+<img src="assets/images/banner.png" width="100%">
+</p>
+
 # 🍽 Restaurant Recommendation System
+## AI Powered Recommendation Engine
 
-> A Content-Based Restaurant Recommendation System developed using Python and Machine Learning techniques as part of the **Cognifyz Technologies Machine Learning Internship**.
-
----
+> A Content-Based Restaurant Recommendation System using Machine Learning
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Project Overview
 
