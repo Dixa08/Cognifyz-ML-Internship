@@ -84,8 +84,7 @@ The dataset was cleaned before training the Machine Learning models.
 Several visualizations were created to understand the dataset and identify patterns.
 
 ## ⭐ Rating Distribution
-
-Understanding how restaurant ratings are distributed.
+Understanding how restaurant ratings are distributed...
 
 ![Rating Distribution](assets/images/rating_distribution.png)
 
