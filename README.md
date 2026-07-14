@@ -1,158 +1,164 @@
-# 🍽 Restaurant Rating Prediction
+# 🤖 Cognifyz Technologies Machine Learning Internship
 
-## 📌 Project Overview
+![Banner](assets/banner.png)
 
-This project was developed as part of the **Machine Learning Internship at Cognifyz Technologies**.
-
-The objective of this project is to build a Machine Learning model that predicts the **Aggregate Rating** of a restaurant based on different restaurant features such as cuisine, city, average cost, price range, online delivery, table booking, and customer votes.
-
----
-
-## 🎯 Objective
-
-- Predict restaurant ratings using Machine Learning.
-- Compare different regression algorithms.
-- Analyze the factors that influence restaurant ratings.
-- Evaluate model performance using standard regression metrics.
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+![Status](https://img.shields.io/badge/Internship-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
-## 📂 Dataset
+# 📌 About This Repository
 
-The dataset contains information about **9,551 restaurants** with **21 features**, including:
+This repository contains the projects completed during my **Machine Learning Internship at Cognifyz Technologies**.
 
-- Restaurant Name
-- City
-- Cuisine
-- Average Cost for Two
-- Currency
-- Table Booking
-- Online Delivery
-- Price Range
-- Votes
-- Aggregate Rating
+Throughout the internship, I worked on real-world machine learning problems involving **regression, recommendation systems, and classification**. Each project follows a complete machine learning workflow including data preprocessing, exploratory data analysis (EDA), feature engineering, model development, evaluation, and documentation.
+
+The objective of this internship was to strengthen practical machine learning skills while applying industry-standard tools and techniques to solve data-driven problems.
 
 ---
 
-## ⚙️ Technologies Used
+# 🏢 About Cognifyz Technologies
+
+Cognifyz Technologies is a technology company specializing in **Artificial Intelligence (AI), Machine Learning (ML), Data Science, and Data Analytics**. The organization provides internship opportunities and practical projects that help students gain hands-on experience with real-world datasets and machine learning workflows.
+
+---
+
+# 🎯 Internship Objectives
+
+- Apply Machine Learning algorithms to solve practical problems.
+- Perform data preprocessing and exploratory data analysis.
+- Develop regression, classification, and recommendation models.
+- Evaluate model performance using appropriate metrics.
+- Document and present machine learning projects professionally.
+
+---
+
+# 📂 Projects Completed
+
+| Task | Project | Description |
+|------|---------|-------------|
+| ✅ Task 1 | 🍽 Restaurant Rating Prediction | Predict restaurant ratings using Machine Learning Regression models. |
+| ✅ Task 2 | 🍴 Restaurant Recommendation System | Recommend restaurants based on user preferences using Content-Based Filtering. |
+| ✅ Task 3 | 🍜 Restaurant Cuisine Classification | Classify restaurants into cuisine categories using Random Forest Classification. |
+
+---
+
+# 📁 Repository Structure
+
+```text
+Cognifyz-ML-Internship/
+│
+├── Task1_Restaurant_Rating_Prediction/
+│
+├── Task2_Restaurant_Recommendation/
+│
+├── Task3_Cuisine_Classification/
+│
+└── README.md
+```
+
+---
+
+# 🛠 Technologies Used
+
+### Programming Language
 
 - Python
+
+### Libraries
+
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
 - Joblib
-- Streamlit
+
+### Development Environment
+
+- Jupyter Notebook
+- Visual Studio Code
+- Git & GitHub
 
 ---
 
-## 📊 Project Workflow
+# 📊 Machine Learning Techniques
 
-1. Data Loading
-2. Data Cleaning
-3. Exploratory Data Analysis (EDA)
-4. Data Preprocessing
-5. Feature Encoding
-6. Train-Test Split
-7. Model Training
-8. Model Evaluation
-9. Feature Importance Analysis
-10. Model Saving
-
----
-
-## 🤖 Machine Learning Models
-
-The following regression models were implemented:
+### Regression
 
 - Linear Regression
 - Decision Tree Regressor
 - Random Forest Regressor
 
----
+### Recommendation System
 
-## 📈 Model Performance
+- CountVectorizer
+- Cosine Similarity
+- Content-Based Filtering
 
-| Model | R² Score | RMSE |
-|--------|---------:|-----:|
-| Linear Regression | 0.303 | 1.259 |
-| Decision Tree | 0.923 | 0.420 |
-| **Random Forest** | **0.962** | **0.296** |
+### Classification
 
-### Best Model
-
-**Random Forest Regressor**
-
-The Random Forest model achieved the highest accuracy and was selected as the final prediction model.
+- Random Forest Classifier
+- Label Encoding
+- Feature Engineering
 
 ---
 
-## 🔍 Feature Importance
+# 📸 Project Gallery
 
-The most influential features affecting restaurant ratings are:
-
-1. Votes
-2. Longitude
-3. Latitude
-4. Cuisines
-5. Average Cost for Two
+| Task 1 | Task 2 | Task 3 |
+|---------|---------|---------|
+| ![](assets/task1.png) | ![](assets/task2.png) | ![](assets/task3.png) |
 
 ---
 
-## 📁 Project Structure
+# 🚀 Key Skills Gained
 
-```text
-Task1_Restaurant_Rating_Prediction/
-│
-├── data/
-├── models/
-├── notebooks/
-├── reports/
-├── src/
-├── app.py
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning
+- Regression
+- Classification
+- Recommendation Systems
+- Model Evaluation
+- Data Visualization
+- GitHub Project Documentation
 
 ---
 
-## 🚀 How to Run
+# 📈 Internship Outcomes
 
-### Clone the repository
+Through this internship, I gained practical experience in:
 
-```bash
-git clone <repository_link>
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Streamlit application
-
-```bash
-streamlit run app.py
-```
+- Building end-to-end machine learning projects.
+- Selecting appropriate algorithms for different problem types.
+- Evaluating model performance using industry-standard metrics.
+- Creating professional technical documentation and reports.
+- Organizing projects using GitHub best practices.
 
 ---
 
-## 📌 Future Improvements
-
-- Hyperparameter tuning
-- One-Hot Encoding for categorical features
-- Cross-validation
-- Advanced ensemble models
-- Interactive dashboard enhancements
-
----
-
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Dixa**
 
-B.Tech CSE (AI & ML)
+B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning)
 
+Graphic Era Hill University, Dehradun
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 💻 GitHub: *(Add your GitHub Profile URL)*
+
+---
+
+# ⭐ Acknowledgement
+
+I sincerely thank **Cognifyz Technologies** for providing this internship opportunity and allowing me to gain practical experience in Machine Learning through real-world projects.
+
+---
+
+⭐ If you found these projects useful, feel free to **Star** this repository!
