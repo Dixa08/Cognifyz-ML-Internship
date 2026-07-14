@@ -168,44 +168,5 @@ elif page == "🤖 Predict Rating":
         st.write("**Online Delivery:**", row["Has Online delivery"])
 
     if st.button("🔮 Predict Rating"):
-        # Encode categorical values
-        city_encoded = label_encoders["City"].transform([city])[0]
-        cuisine_encoded = label_encoders["Cuisines"].transform([cuisines])[0]
-        currency_encoded = label_encoders["Currency"].transform([currency])[0]
-        table_encoded = label_encoders["Has Table booking"].transform([table_booking])[0]
-        online_encoded = label_encoders["Has Online delivery"].transform([online_delivery])[0]
-        delivering_encoded = label_encoders["Is delivering now"].transform([delivering_now])[0]
-        switch_encoded = label_encoders["Switch to order menu"].transform([switch_menu])[0]
 
-            # Get latitude and longitude automatically
-        location = df[df["City"] == city].iloc[0]
-
-        longitude = location["Longitude"]
-        latitude = location["Latitude"]
-
-            # Create input dataframe
-        input_data = pd.DataFrame({
-            "Country Code": [country_code],
-            "City": [city_encoded],
-            "Longitude": [longitude],
-                "Latitude": [latitude],
-                "Cuisines": [cuisine_encoded],
-                "Average Cost for two": [avg_cost],
-                "Currency": [currency_encoded],
-                "Has Table booking": [table_encoded],
-                "Has Online delivery": [online_encoded],
-                "Is delivering now": [delivering_encoded],
-                "Switch to order menu": [switch_encoded],
-                "Price range": [price_range],
-                "Votes": [votes]
-            })
-
-            # Predict
-        prediction = model.predict(input_data)[0]
-
-            # Display
-        st.success(f"⭐ Predicted Restaurant Rating: {prediction:.2f} / 5")
-
-        if prediction >= 4.5:
-                st.balloons()
-                    
+        
