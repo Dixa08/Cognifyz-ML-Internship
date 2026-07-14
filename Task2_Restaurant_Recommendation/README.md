@@ -99,6 +99,41 @@ Top Restaurant Recommendations
 
 ---
 
+
+## 📂 Dataset Information
+
+| Attribute | Value |
+|-----------|--------|
+| Total Restaurants | 9551 |
+| Total Features | 21 |
+
+### Dataset Preview
+
+<p align="center">
+  <img src="assets/images/dataset.png" alt="Dataset Preview" width="90%">
+</p>
+
+
+## 📊 Exploratory Data Analysis
+
+### Top Cities
+
+<p align="center">
+  <img src="assets/images/top_cities.png" alt="Top Cities" width="80%">
+</p>
+
+### Popular Cuisines
+
+<p align="center">
+  <img src="assets/images/cuisines.png" alt="Popular Cuisines" width="80%">
+</p>
+
+## 📷 Sample Recommendation
+
+<p align="center">
+  <img src="assets/images/recommendation_output.png" alt="Recommendation Output" width="90%">
+</p>
+
 ## 📷 Sample Recommendation
 
 Example User Preferences
