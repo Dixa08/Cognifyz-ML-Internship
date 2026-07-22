@@ -186,7 +186,6 @@ Task3_Cuisine_Classification/
 ├── notebooks/
 ├── reports/
 ├── src/
-├── app.py
 ├── README.md
 ├── requirements.txt
 └── .gitignore
