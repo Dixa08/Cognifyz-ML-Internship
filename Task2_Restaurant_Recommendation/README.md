@@ -177,7 +177,6 @@ Task2_Restaurant_Recommendation
 ├── notebooks/
 ├── reports/
 ├── src/
-├── app.py
 ├── README.md
 ├── requirements.txt
 └── .gitignore
