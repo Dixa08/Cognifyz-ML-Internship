@@ -238,7 +238,6 @@ Task1_Restaurant_Rating_Prediction/
 ├── notebooks/
 ├── reports/
 ├── src/
-├── app.py
 ├── README.md
 ├── requirements.txt
 └── .gitignore
