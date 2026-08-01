@@ -18,12 +18,6 @@ The objective of this internship was to strengthen practical machine learning sk
 
 ---
 
-# 🏢 About Cognifyz Technologies
-
-Cognifyz Technologies is a technology company specializing in **Artificial Intelligence (AI), Machine Learning (ML), Data Science, and Data Analytics**. The organization provides internship opportunities and practical projects that help students gain hands-on experience with real-world datasets and machine learning workflows.
-
----
-
 # 🎯 Internship Objectives
 
 - Apply Machine Learning algorithms to solve practical problems.
