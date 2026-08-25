@@ -138,12 +138,15 @@ Graphic Era Hill University, Dehradun
 - 📧 Email: dixa.inf08@gmail.com
 - 💼 LinkedIn: *(www.linkedin.com/in/dixa)*
 - 💻 GitHub: *(https://github.com/Dixa08)*
+- kaggle:kaggle.dixa08.com
+  
 
 ---
 
 # ⭐ Acknowledgement
 
 I sincerely thank **Cognifyz Technologies** for providing this internship opportunity and allowing me to gain practical experience in Machine Learning through real-world projects.
+
 
 ---
 
