@@ -74,6 +74,7 @@ Cognifyz-ML-Internship/
 - Jupyter Notebook
 - Visual Studio Code
 - Git & GitHub
+  
 
 ---
 
@@ -97,7 +98,7 @@ Cognifyz-ML-Internship/
 - Label Encoding
 - Feature Engineering
 
-
+ann cnn,rnn llm trsndfomer
 ---
 
 # 🚀 Key Skills Gained
